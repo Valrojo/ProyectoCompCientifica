@@ -14,5 +14,7 @@ Para activar el ambiente:
 $ conda actvate info147
 ~~~
 
+Grupo:
 - Alvaro Valverde
 - Benjamín Barrientos
+- Felipe Salazar
